@@ -9,6 +9,7 @@ Esse teste é para vaga de senior para área de desenvolvimento.
 
 Só precisa saber (ou aprender agora) um pouco sobre as seguintes tecnologias:
 
+- Java
 - Sprinboot / React
 - Postgress / Oracle
 - Docker
