@@ -34,11 +34,16 @@ Clone esse repositório, complete os desafios e envie a url do seu git para aval
 - Editar Quiz
 - Responder Quiz 
   Quem responder o quiz deverá estar logado atravez do login social (Google / Facebook..)
-- Palavras chaves mais utilizadas
+- Tags mais utilizadas
 - Media das respostas no quiz
 - Quais os quiz mais respondidos
 
-*Os endpoints deverão estar seguros o suficiente para que somente os usuarios logados possam manipulalos.*
+#### *Os endpoints deverão estar seguros o suficiente para que somente os usuarios logados possam manipulalos.*
+#### O Quiz deverá ter como atributo:
+ - Banner / imagem
+ - Tags
+ - Perguntas
+  - Respostas
 
 # 
 Show me the code!
