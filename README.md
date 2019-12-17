@@ -16,7 +16,7 @@ Só precisa saber (ou aprender agora) um pouco sobre as seguintes tecnologias:
 ## Regras
 Clone esse repositório, complete os desafios e envie a url do seu git para avaliarmos `your code`.
 
-### Pré-requisitos
+### !Utilize!
 
 - Boas práticas de código (tem que passar no sonar!)
 - SEMVER
@@ -24,13 +24,6 @@ Clone esse repositório, complete os desafios e envie a url do seu git para aval
 - API Restfull
 - Utilizar docker compose
 - Readme.md descrevendo como buildar e subir a aplicação de forma facil
-- Login social (Google / Facebook..)
-- Os endpoints deverão estar seguros o suficiente para que somente os usuarios logados possam manipulalos
-- O Quiz deverá ter como atributo:
-  - Banner / imagem
-  - Tags
-  - Perguntas
-  - Respostas
 
 ## Desafio Quiz
 
@@ -43,6 +36,15 @@ Eu quero poder responder um quiz
 Para eu ter acesso aos resultados cadastrados na ferramenta 
 
 
+### Pré-requisitos
+- Login social (Google / Facebook..)
+- Os endpoints deverão estar seguros o suficiente para que somente os usuarios logados possam manipulalos
+- O Quiz deverá ter como atributo:
+  - Banner / imagem
+  - Tags
+  - Perguntas
+  - Respostas
+  
 ### API REST
  Crie uma api rest que deverá conter os endpoints:
 
