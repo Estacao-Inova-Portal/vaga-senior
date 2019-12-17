@@ -26,10 +26,10 @@ Clone esse repositório, complete os desafios e envie a url do seu git para aval
 - Login social (Google / Facebook..)
 - Os endpoints deverão estar seguros o suficiente para que somente os usuarios logados possam manipulalos
 - O Quiz deverá ter como atributo:
- - Banner / imagem
- - Tags
- - Perguntas
- - Respostas
+  - Banner / imagem
+  - Tags
+  - Perguntas
+  - Respostas
 
 ## Desafio Quiz
 
