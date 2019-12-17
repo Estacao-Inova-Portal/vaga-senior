@@ -54,9 +54,9 @@ Para eu ter acesso aos resultados cadastrados na ferramenta
 - Editar Quiz
 - Responder Quiz 
 - Resultados
- - Tags mais utilizadas
- - Media das respostas no quiz
- - Quais os quiz mais respondidos
+   - Tags mais utilizadas
+   - Media das respostas no quiz
+   - Quais os quiz mais respondidos
 
 # 
 Show me the code!
