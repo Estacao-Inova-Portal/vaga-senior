@@ -1,6 +1,6 @@
 ![Hello World](hello.jpeg)
 
-# Vaga Senior
+# Vaga Sênior
 Nós estamos sempre em busca de profissionais interessantes e interessados, com boa capacidade de aprendizado, adaptação e principalmente gente boa.
 
 Esse teste é para vaga de senior para área de desenvolvimento.
@@ -18,11 +18,12 @@ Clone esse repositório, complete os desafios e envie a url do seu git para aval
 
 ### Pré-requisitos
 
-- Boas práticas de codigo (tem que passar no sonar!)
+- Boas práticas de código (tem que passar no sonar!)
 - SEMVER
 - Nomenclatura de projeto
 - API Restfull
-- Readme.md descrevendo como buildar e subir a aplicação de forma facil;
+- Utilizar docker compose
+- Readme.md descrevendo como buildar e subir a aplicação de forma facil
 - Login social (Google / Facebook..)
 - Os endpoints deverão estar seguros o suficiente para que somente os usuarios logados possam manipulalos
 - O Quiz deverá ter como atributo:
@@ -33,8 +34,12 @@ Clone esse repositório, complete os desafios e envie a url do seu git para aval
 
 ## Desafio Quiz
 
+### Historia 
+
 Sendo um usuário logado
+
 Eu quero poder responder um quiz
+
 Para eu ter acesso aos resultados cadastrados na ferramenta 
 
 
